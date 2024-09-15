@@ -1,0 +1,1 @@
+I have utilized both local and global alignment algorithms to compare biological sequences. This includes applying the Needleman-Wunsch algorithm for global alignment, which aligns entire sequences end-to-end, and the Smith-Waterman algorithm for local alignment, which identifies the most similar subsequences.
